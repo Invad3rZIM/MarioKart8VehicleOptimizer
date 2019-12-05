@@ -1,9 +1,11 @@
 # MarioKart8VehicleOptimizer
 
-I made this for my girlfriend Karelys so that we can beat MarioKart8 for Nintendo Switch.
+I made this for my girlfriend so that we can beat MarioKart8 for Nintendo Switch.
 
 This is part 1, a python program that parses html data ripped from a get request and formats it into
 the following schema
+
+Part 2 is going to be writing a frontend for it! This will be done in ReactJS
 
 ```
 name,speed,acceleration,weight,handling,traction/grip,mini-turbo,total
